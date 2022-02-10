@@ -1,7 +1,7 @@
 - Hi, I’m @SkylarPlayz348
 - I’m interested in Fivem resource and server development
-- I’m currently learning how to make a Fivem Server
-- I’m looking to collaborate on Fivem Resources(QB-Core specific)
+- I’m currently learning how to make a Discord Bots
+- I’m looking to collaborate on anything Disocrd JS related
 - How to reach me:
 Discord: SkylarPlayz348#0348
 
