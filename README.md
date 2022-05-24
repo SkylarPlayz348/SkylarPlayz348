@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sky</h1>
 - 🔭 I’m currently working on Chloe Bot(Not Available Yet)
 
-- 🌱 I’m currently learning **HTML/CSS, SQL, JAVA**
+- 🌱 I’m currently learning **HTML/CSS, SQL, JAVA, LUA**
 
 - 📫 How to reach me **skylarplayz348@gmail.com**
 
