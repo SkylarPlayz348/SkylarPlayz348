@@ -6,9 +6,9 @@
 - 📫 How to reach me: skylarplayz348@gmail.com
 - 😄 Pronouns: She/Her
 
-#### Github Stats:
+#### Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=skylarplayz348&count_private=true&show_icons=true&theme=omni)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skylarplayz348&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 
 ```text
