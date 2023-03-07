@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 January 2023 - To: 04 March 2023
+From: 03 January 2023 - To: 05 March 2023
 
 JavaScript   25 hrs 45 mins  #############------------   52.98 %
 Assembly     7 hrs 38 mins   ####---------------------   15.72 %
