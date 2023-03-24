@@ -15,14 +15,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 January 2023 - To: 21 March 2023
+From: 03 January 2023 - To: 22 March 2023
 
-JavaScript   25 hrs 54 mins  ###########--------------   44.64 %
-Assembly     9 hrs 51 mins   ####---------------------   16.99 %
-Lua          8 hrs 2 mins    ###----------------------   13.84 %
-JSON         3 hrs 8 mins    #------------------------   05.42 %
-HTML         2 hrs 8 mins    #------------------------   03.70 %
-C++          1 hr 54 mins    #------------------------   03.28 %
+JavaScript   25 hrs 54 mins  ###########--------------   42.23 %
+Assembly     13 hrs 6 mins   #####--------------------   21.36 %
+Lua          8 hrs 2 mins    ###----------------------   13.10 %
+JSON         3 hrs 8 mins    #------------------------   05.13 %
+HTML         2 hrs 8 mins    #------------------------   03.50 %
+C++          1 hr 54 mins    #------------------------   03.11 %
 ```
 
 <!--END_SECTION:waka-->
