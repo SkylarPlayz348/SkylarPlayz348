@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 January 2023 - To: 26 May 2023
+From: 03 January 2023 - To: 27 May 2023
 
-Other              78 hrs 2 mins   ##########---------------   41.10 %
-JavaScript         27 hrs 46 mins  ####---------------------   14.62 %
-Assembly           24 hrs 36 mins  ###----------------------   12.95 %
-C                  19 hrs 43 mins  ###----------------------   10.39 %
-Lua                12 hrs 20 mins  ##-----------------------   06.50 %
+Other              81 hrs 17 mins  ###########--------------   42.09 %
+JavaScript         27 hrs 46 mins  ####---------------------   14.38 %
+Assembly           24 hrs 36 mins  ###----------------------   12.74 %
+C                  19 hrs 43 mins  ###----------------------   10.21 %
+Lua                12 hrs 20 mins  ##-----------------------   06.39 %
 ```
 
 <!--END_SECTION:waka-->
