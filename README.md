@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on learning [Assembly(x86)](https://github.com/SkylarPlayz348/Assembly-Coding) and [C](https://github.com/SkylarPlayz348/C-Coding)
-- 🖥 Im currently working on [C-Pokemon](https://github.com/SkylarPlayz348/C-Pokemon) and [C-ASM-Pokemon](https://github.com/SkylarPlayz348/C-ASM-Pokemon)
+- 🖥 Im currently working on varias projects
 - 💬 Ask me about Music Production
 - 📫 How to reach me: skylarplayz348@gmail.com
 - 😄 Pronouns: She/Her
