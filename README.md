@@ -14,14 +14,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skylarplayz348&layout=compact&theme=omni)
 <!--START_SECTION:waka-->
 
-```text
-From: 03 January 2023 - To: 31 May 2023
+```txt
+From: 03 January 2023 - To: 01 June 2023
 
-Other              102 hrs 39 mins ############-------------   47.57 %
-JavaScript         27 hrs 50 mins  ###----------------------   12.90 %
-Assembly           24 hrs 36 mins  ###----------------------   11.40 %
-C                  19 hrs 43 mins  ##-----------------------   09.14 %
-Lua                12 hrs 31 mins  #------------------------   05.80 %
+Other              107 hrs 25 mins ############-------------   48.68 %
+JavaScript         27 hrs 50 mins  ###----------------------   12.62 %
+Assembly           24 hrs 36 mins  ###----------------------   11.15 %
+C                  19 hrs 43 mins  ##-----------------------   08.94 %
+Lua                12 hrs 35 mins  #------------------------   05.71 %
 ```
 
 <!--END_SECTION:waka-->
