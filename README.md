@@ -13,7 +13,7 @@
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skylarplayz348&layout=compact&theme=omni)
 
-#### Note: Other Includes Browsers and File Extentions Not Recognized by WakaTime
+#### Note: Other Includes Browsers and File Extentions Not Recognized by WakaTime. I have removed the browser extention because of those numbers on Other
 <!--START_SECTION:waka-->
 
 ```txt
