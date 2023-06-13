@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 January 2023 - To: 10 June 2023
+From: 03 January 2023 - To: 11 June 2023
 
 Other              131 hrs 7 mins  #############------------   51.13 %
 JavaScript         28 hrs 22 mins  ###----------------------   11.07 %
