@@ -28,12 +28,4 @@ C                  19 hrs 45 mins  ##-----------------------   07.07 %
 
 <!--END_SECTION:waka-->
 #### Support
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('skylarplayz348_music', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#ff38b8',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'R6R5BI0SC');kofiwidget2.draw();</script> 
