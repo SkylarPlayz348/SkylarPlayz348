@@ -9,7 +9,7 @@
 #### Stats:
 ![Snake](https://raw.githubusercontent.com/Skylarplayz348/Skylarplayz348/snake/github-contribution-grid-snake-dark.svg)
 <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=skylarplayz348&count_private=true&show_icons=true&theme=omniinclude_all_commits=true)
+![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=SkylarPlayz348&show_icons=true&theme=omni&include_all_commits=true&count_private=true)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skylarplayz348&layout=compact&theme=omni)
 
