@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 January 2023 - To: 17 July 2023
+From: 03 January 2023 - To: 20 July 2023
 
 Other              131 hrs 11 mins ###########--------------   45.92 %
 Lua                41 hrs 43 mins  ####---------------------   14.61 %
