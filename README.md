@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on learning [Assembly(x86)](https://github.com/SkylarPlayz348/Assembly-Coding) and [C](https://github.com/SkylarPlayz348/C-Coding)
+- 🔭 I’m currently working on learning: tbh idk rn
 - 🖥 Im currently working on various projects
 - 💬 Ask me about Music Production
 - 📫 How to reach me: skylarplayz348@gmail.com
