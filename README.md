@@ -11,7 +11,7 @@
 <br>
 ![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=SkylarPlayz348&show_icons=true&theme=omni&include_all_commits=true&count_private=true)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skylarplayz348&layout=compact&theme=omni)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skylarplayz348&layout=compact&theme=omni&langs_count=8)
 
 #### Note: Other Includes Browsers and File Extentions Not Recognized by WakaTime. I have removed the browser extention because of those numbers on Other
 <!--START_SECTION:waka-->
