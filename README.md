@@ -6,7 +6,8 @@
 - 📫 How to reach me: skylarplayz348@gmail.com
 - 😄 Pronouns: She/Her
 
-#### Stats:
+### Stats:
+#### Note: I am working on projects that or private so they won't show up below
 ![Snake](https://raw.githubusercontent.com/Skylarplayz348/Skylarplayz348/snake/github-contribution-grid-snake-dark.svg)
 <br>
 ![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=SkylarPlayz348&show_icons=true&theme=omni&include_all_commits=true&count_private=true)
