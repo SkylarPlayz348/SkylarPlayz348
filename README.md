@@ -14,7 +14,5 @@
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skylarplayz348&layout=compact&theme=omni&langs_count=8)
 
-### Latest Song(BeatPort
-<iframe src="https://embed.beatport.com/?id=4735714&type=release" width="100%" height="362" frameborder="0" scrolling="no" style="max-width:600px;"></iframe>
 #### Support
 <a href='https://ko-fi.com/R6R5BI0SC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
