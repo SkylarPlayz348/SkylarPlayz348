@@ -7,7 +7,7 @@
 - 😄 Pronouns: She/Her
 
 ### Stats:
-#### Note: I am working on projects that are private so they might not show up below
+#### Note: I am working on projects that are private so they might not show up below. The bottom two stats are Private and Public repos
 ![Snake](https://raw.githubusercontent.com/Skylarplayz348/Skylarplayz348/snake/github-contribution-grid-snake-dark.svg)
 <br>
 ![GitHub stats](https://github-readme.skyvincent.com/api?username=SkylarPlayz348&show_icons=true&theme=omni&include_all_commits=true&count_private=true)
