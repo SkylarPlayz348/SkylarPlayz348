@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on learning: tbh idk rn
 - 🖥 Im currently working on various projects
 - 💬 Ask me about Music Production
-- 📫 How to reach me: inqueries@skyvincent.com *I only check this once a week*
+- 📫 How to reach me: sky@skyvincent.com *I only check this once a week*
 - 😄 Pronouns: She/Her
 
 ### Stats:
