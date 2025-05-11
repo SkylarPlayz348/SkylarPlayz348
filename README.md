@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on learning: tbh idk rn
-- 🖥 Im currently working on a custom game engine
+- 🖥 Im currently working on something to do with emulation
 - 💬 Ask me about Music Production
 - 📫 How to reach me: sky@skyvincent.com
 - 😄 Pronouns: She/Her
