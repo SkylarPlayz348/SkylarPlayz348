@@ -8,12 +8,24 @@
 
 ### Stats:
 #### Note: I am working on projects that are private so they might not show up below. The bottom two stats are Private and Public repos
-![Snake](https://raw.githubusercontent.com/Skylarplayz348/Skylarplayz348/snake/github-contribution-grid-snake-dark.svg)
-<br>
-![GitHub stats](https://github-readme.skyvincent.com/api?username=SkylarPlayz348&show_icons=true&theme=omni&include_all_commits=true)
-<br>
-![Top Langs](https://github-readme.skyvincent.com/api/top-langs/?username=skylarplayz348&layout=compact&theme=omni&langs_count=10&count_private=true)
 
+<!-- Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Skylarplayz348/Skylarplayz348/snake/github-contribution-grid-snake-dark.svg">
+  <img alt="" src="https://raw.githubusercontent.com/Skylarplayz348/Skylarplayz348/snake/github-contribution-grid-snake.svg" >
+</picture>
+
+<!-- Github Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme.skyvincent.com/api?username=SkylarPlayz348&show_icons=true&theme=omni&include_all_commits=true">
+  <img alt="" src="https://github-readme.skyvincent.com/api?username=SkylarPlayz348&show_icons=true&theme=jolly&include_all_commits=true" >
+</picture>
+<p></p>
+<!-- Top Langs -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme.skyvincent.com/api/top-langs/?username=skylarplayz348&layout=compact&theme=omni&langs_count=10&count_private=true">
+  <img alt="" src="https://github-readme.skyvincent.com/api/top-langs/?username=skylarplayz348&layout=compact&theme=jolly&langs_count=10&count_private=true" >
+</picture>
 
 ### Languages / Stuff I Know
 
