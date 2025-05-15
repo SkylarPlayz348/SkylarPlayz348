@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on learning: [SDL-Game](https://github.com/SkylarPlayz348/SDL-Game)
-- 🖥 Im currently working on something to do with emulation
+- 🔭 I’m currently working on learning: SDL3
+- 🖥 Im currently working on [SDL-Game](https://github.com/SkylarPlayz348/SDL-Game)
 - 💬 Ask me about Music Production
 - 📫 How to reach me: sky@skyvincent.com
 - 😄 Pronouns: She/Her
