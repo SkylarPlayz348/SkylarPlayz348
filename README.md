@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on learning: tbh idk rn
+- 🔭 I’m currently working on learning: [SDL-Game](https://github.com/SkylarPlayz348/SDL-Game)
 - 🖥 Im currently working on something to do with emulation
 - 💬 Ask me about Music Production
 - 📫 How to reach me: sky@skyvincent.com
