@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on learning: SDL3
+- 🔭 I’m currently working on learning: various things
 - 🖥 Im currently working on various projects
 - 💬 Ask me about Music Production
 - 📫 How to reach me: sky@skyvincent.com
