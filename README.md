@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on learning: various things
-- 🖥 Im currently working on various projects
+- 🖥 Im currently working on my fork of [Open PS2 Loader](https://github.com/SkylarPlayz348/Open-PS2-Loader)
 - 💬 Ask me about Music Production
 - 📫 How to reach me: sky@skyvincent.com
 - 😄 Pronouns: She/Her
