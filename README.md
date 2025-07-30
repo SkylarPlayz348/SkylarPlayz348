@@ -7,7 +7,7 @@
 - 😄 Pronouns: She/Her
 
 ### Stats:
-#### Note: I am working on projects that are private so they might not show up below. The bottom two stats are Private and Public repos
+#### Note: I am working on projects that are private so they might not show up below.
 
 <!-- Snake -->
 <picture>
