@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on learning: My Doom Source Port
+- 🔭 I’m currently working on learning: various things
 - 🖥 Im currently working on stuff. I don't know just things.
 - 💬 Ask me about Music Production
 - 📫 How to reach me: sky@skyvincent.com
