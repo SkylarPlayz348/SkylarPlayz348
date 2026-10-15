@@ -11,20 +11,20 @@
 
 <!-- Snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Skylarplayz348/Skylarplayz348/snake/github-contribution-grid-snake-dark.svg">
-  <img alt="" src="https://raw.githubusercontent.com/Skylarplayz348/Skylarplayz348/snake/github-contribution-grid-snake.svg" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Skylarplayz348/fuzzyghosty/snake/github-contribution-grid-snake-dark.svg">
+  <img alt="" src="https://raw.githubusercontent.com/fuzzyghosty/fuzzyghosty/snake/github-contribution-grid-snake.svg" >
 </picture>
 
 <!-- Github Stats -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme.skyvincent.com/api?username=SkylarPlayz348&show_icons=true&theme=omni&include_all_commits=true">
-  <img alt="" src="https://github-readme.skyvincent.com/api?username=SkylarPlayz348&show_icons=true&theme=jolly&include_all_commits=true" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme.skyvincent.com/api?username=fuzzyghosty&show_icons=true&theme=omni&include_all_commits=true">
+  <img alt="" src="https://github-readme.skyvincent.com/api?username=fuzzyghosty&show_icons=true&theme=jolly&include_all_commits=true" >
 </picture>
 <p></p>
 <!-- Top Langs -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme.skyvincent.com/api/top-langs/?username=skylarplayz348&layout=compact&theme=omni&langs_count=10&count_private=true">
-  <img alt="" src="https://github-readme.skyvincent.com/api/top-langs/?username=skylarplayz348&layout=compact&theme=jolly&langs_count=10&count_private=true" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme.skyvincent.com/api/top-langs/?username=fuzzyghosty&layout=compact&theme=omni&langs_count=10&count_private=true">
+  <img alt="" src="https://github-readme.skyvincent.com/api/top-langs/?username=fuzzyghosty&layout=compact&theme=jolly&langs_count=10&count_private=true" >
 </picture>
 
 *These are in my repos so some are forks that have Objective-C or have python. While I can read and understand them I might not write in them
